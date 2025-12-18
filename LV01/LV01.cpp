@@ -18,8 +18,6 @@ int main()
     double potrosenoGoriva = (prijedeniKm * potrosnjaVozila) / 100;
     double ukupniTrosakGoriva = potrosenoGoriva * cijenaGoriva;
 
-    int sladoled =67
-
     cout << setprecision(4);
     cout << "Potroseno goriva: " << potrosenoGoriva << " litara\n";
     cout << "Ukupni trosak goriva za putovanje: " << ukupniTrosakGoriva << " eura\n";
